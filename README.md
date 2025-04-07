@@ -6,11 +6,11 @@ A microservices-based course enrollment platform where students can register, lo
 
 ## 📁 Application Structure
 
-- **microservice-user-management** – Microservice implemented using Spring Boot. More info  
-- **microservice-course-management** – Microservice implemented using Spring Boot. More info  
-- **eureka-discovery-service** – Microservice implemented using Spring Eureka. More info  
-- **zuul-gateway-service** – Microservice implemented using Spring Zuul. More info  
-- **client-side** – A Node.js application implemented using React. This consumes services hosted by the server side. More info  
+- **microservice-user-management** – Microservice implemented using Spring Boot. 
+- **microservice-course-management** – Microservice implemented using Spring Boot.   
+- **eureka-discovery-service** – Microservice implemented using Spring Eureka.  
+- **zuul-gateway-service** – Microservice implemented using Spring Zuul. 
+- **client-side** – A Node.js application implemented using React. This consumes services hosted by the server side. 
 
 ---
 
